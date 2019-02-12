@@ -20,9 +20,9 @@ setup(
     version=version['__version__'],
     description=('Show how to structure a Python project.'),
     long_description=long_description,
-    author='Bruce Wayne',
-    author_email='bruce.wayne@example.com',
-    url='https://github.com/bast/somepackage',
+    author='Yutao Tang',
+    author_email='kissingers800@gmail.com',
+    url='https://github.com/yytang2012/somepackage.git',
     license='MPL-2.0',
     packages=['somepackage'],
 #   no dependencies in this example
